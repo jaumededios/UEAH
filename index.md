@@ -50,6 +50,14 @@ ___
 <span class = 'date_and_place'>(September 3  -  9 2022, UCI - This year online)</span> <span class = 'application over'> Applications over</span>
 
 
+## [ Guido Weiss Memorial Conference On Harmonic Analysis](http://guidomemorial.wustl.edu/)
+<span class = 'date_and_place'>(October 8  -  9 2022, Washington University in St. Louis)</span> 
+
+
+## [Geometric Applications of Microlocal Analysis](https://web.stanford.edu/~andras/microloc-conf-22.html)
+<span class = 'date_and_place'>(September 2  -  5 2022, Stanford)</span> 
+
+
 ___
 ## Long Programs
 

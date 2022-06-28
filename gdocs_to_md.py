@@ -26,16 +26,18 @@ def date_and_place(start,end,location):
 
 
 def application_deadline(deadline):
+	try:
+		deadline = datetime.strptime(str(int(deadline)), '%Y%m%d')
 
-	deadline = datetime.strptime(str(deadline), '%Y%m%d')
 
-	if deadline<datetime.now():
-		return "<span class = 'application over'> Applications over</span>"
+		if deadline<datetime.now():
+			return "<span class = 'application over'> Applications over</span>"
 
-	else:
-		return f"<span class = 'application due'> Applications due {deadline.strftime('%B %d, %Y')}</span>"
+		else:
+			return f"<span class = 'application due'> Applications due {deadline.strftime('%B %d, %Y')}</span>"
 
-	print(date)
+	except ValueError:
+		return ""
 
 
 def format_conference(Title,URL,Date_Start,Date_End,Location,Description, App_Deadline, **kwargs):
