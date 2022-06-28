@@ -1,7 +1,7 @@
 
 
-# Recurrent Events
+# Summer Schools
 
-*These events happen about once a year, I'll try to have them in the "Deadline upcoming" list but you might want to remember them in general*
 
-* **Thiele's Summer School**
+## [Computational Learning Theory and Fourier Analysis](https://sites.googlae.com/view/paata/learning?authuser=0)
+(October 10 - 14 2022, UCI - This year online)
