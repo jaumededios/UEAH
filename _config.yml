@@ -1,10 +1,9 @@
 theme: jekyll-theme-minimal
 title: Upcoming Events in Harmonic Analysis
 email: jdedios@math.ucla.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  List of upcoming events with harmonic analysis (with a very broad and opinionated 
-  definition of what harmonic analysis means). Email me if you think I am missing an 
-  event!
+description: >- # this means to ignore newlines
+  List of upcoming events tangentially related to harmonic analysis (with a broad and opinionated 
+  definition of what harmonic analysis means). Email me if you think I am missing an event!
   
 twitter_username: jaumededios
 github_username:  jaumededios
