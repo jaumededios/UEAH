@@ -1,3 +1,18 @@
+<style>
+  .application{
+  font-style: italic;
+  float:right;
+  }
+  .application.over{
+  color:#bb2222;
+  }
+  .date_and_place{
+  float:left;
+  }
+</style>
+
+# Summer Schools
+
 ## [Computational Learning Theory and Fourier Analysis](https://sites.googlae.com/view/paata/learning?authuser=0)
 <div><span class = 'date_and_place'>(October 10  -  14 2022, UCI - This year online)</span><span class = 'application due'> Applications due July 03,2022</span></div>
 
