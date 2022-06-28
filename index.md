@@ -65,4 +65,12 @@ ___
 <span class = 'date_and_place'>(September 7  - December 9 2022, ICERM)</span> <span class = 'application over'> Applications over</span>
 
 
+## [Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/)
+<span class = 'date_and_place'>(May 6  - August 16 2024, HIM, Bonn)</span> 
+
+
+## [Synergies between modern probability, geometric analysis and stochastic geometry](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/synergies-between-modern-probability-geometric-analysis-and-stochastic-geometry/description/)
+<span class = 'date_and_place'>(January 8  - April 19 2024, HIM, Bonn)</span> 
+
+
 ___
