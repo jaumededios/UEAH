@@ -7,6 +7,10 @@
   }
   .date_and_place{
   }
+  
+  h2{
+  margin-bottom:5px
+  }
 </style>
 
 # Summer Schools
